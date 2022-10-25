@@ -1,0 +1,49 @@
+[{
+ "id": 1,
+ "name": "Redmi",
+ "description": "Apple, 32GB, RAM: 3GB, iOS13",
+ "price": 17000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/42/272668/xiaomi-redmi-note-11s-5g-%20thumb-600x600.jpg",
+ "category_id": 1
+}, {
+ "id": 2,
+ "name": "Iphone 13 Pro",
+ "description": "Apple, 128GB, RAM: 6GB",
+ "price": 37000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-sierra-blue-600x600.jpg",
+ "category_id": 1
+}, {
+ "id": 3,
+ "name": "Ipad",
+"description": "Samsung, 64GB, RAML: 6GB",
+ "price": 24000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/522/237325/samsung-galaxy-tab-a7-lite-gray-600x600.jpg",
+ "category_id": 2
+},  {
+ "id": 4,
+ "name": "Iphone",
+"description": "Samsung, 64GB, RAML: 6GB",
+ "price": 24000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/42/153856/iphone-xi-xanhla-600x600.jpg",
+ "category_id": 2
+},  {
+ "id": 5,
+ "name": "Reno Pro",
+"description": "Samsung, 64GB, RAML: 6GB",
+ "price": 24000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/42/260546/oppo-reno8-pro-thumb-xanh-1-600x600.jpg",
+ "category_id": 3
+},  {
+ "id": 6,
+ "name": "Iphone",
+"description": "Samsung, 64GB, RAML: 6GB",
+ "price": 24000000,
+ "image":
+"https://cdn.tgdd.vn/Products/Images/42/247508/iphone-14-pro-den-thumb-600x600.jpg",
+ "category_id": 3
+}]
